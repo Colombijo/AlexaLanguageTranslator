@@ -128,11 +128,11 @@ def store_contact_in_attributes(name, language):
 
 def determineNumber(name):
     if name == "joey":
-        return "+14254435671"
+        return "+111111111"
     elif name == "meg":
-        return "+14252410114"
-    elif name == "sam":
-        return "+14253726169"
+        return "+555555555"
+    elif name == "dave":
+        return "+333333333"
     else:
         return "0"
         
